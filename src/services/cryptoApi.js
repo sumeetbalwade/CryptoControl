@@ -28,21 +28,16 @@ export const cryptoApi = createApi({
 				};
 			},
 		}),
+
+		getExchanges: builder.query({
+			query: () => createRequest("/exchanges"),
+		}),
 	}),
 });
-// {
-// 	const { start, end } = arg;
-// 	console.log('arg: ', arg);
-// 	return {
-// 	  url: 'posts/',
-// 	  params: { start, end },
-// 	};
-//   },
-
-// createRequest(`/coin/${coinId}/history?timeperiod=${timePeriod}`),
 
 export const {
 	useGetCryptosQuery,
 	useGetCryptoDetailsQuery,
 	useGetCryptoHistoryQuery,
+	useGetExchangesQuery,
 } = cryptoApi;
