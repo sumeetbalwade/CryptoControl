@@ -1,6 +1,12 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# CryptoControl - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(36).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(37).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(38).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(39).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(40).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(41).png>)
+![Cryptoverse](<https://raw.githubusercontent.com/sumeetbalwade/CryptoControl/main/screenshots/Screenshot%20(42).png>)
 
 ## Introduction
 
